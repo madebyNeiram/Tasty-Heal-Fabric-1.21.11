@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "tastyheal",
+	"version": "${version}",
+	"name": "Tasty Heal",
+	"description": "Adding some food to the players",
+	"authors": [
+		"Neiram"
+	],
+	"contact": {
+		"homepage": "https://neiram.games",
+		"sources": "https://github.com/madebyNeiram/Tasty-Heal-Fabric-1.21.11"
+	},
+	"license": "MIT",
+	"icon": "assets/tastyheal/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.neiram.tastyheal.TastyHeal"
+		],
+		"fabric-datagen": [
+			"net.neiram.tastyheal.TastyHealDataGenerator"
+		],
+		"client": [
+			"net.neiram.tastyheal.TastyHealClient"
+		]
+	},
+	"mixins": [
+		"tastyheal.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
