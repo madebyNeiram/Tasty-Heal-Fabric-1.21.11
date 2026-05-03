@@ -1,9 +1,18 @@
 # Tasty Heal
 
-## Setup
+Tasty Heal is a Minecraft Fabric mod for Minecraft 1.21.11.
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+## Description
+
+This mod adds new healing-related features to Minecraft.
+
+## Requirements
+
+- Minecraft 1.21.11
+- Fabric Loader
+- Fabric API
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This project is licensed under the MIT License.
+See the `LICENSE` file for more information.
