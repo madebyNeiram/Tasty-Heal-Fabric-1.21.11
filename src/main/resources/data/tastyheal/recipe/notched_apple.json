@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "GBG",
+    "GGG"
+  ],
+  "key": {
+    "G": "minecraft:gold_nugget",
+    "B": "tastyheal:honeyed_apple"
+  },
+  "result": {
+    "id": "tastyheal:notched_apple",
+    "count": 1
+  }
+}

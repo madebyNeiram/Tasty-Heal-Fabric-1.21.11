@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "GBG",
+    "GGG"
+  ],
+  "key": {
+    "G": "minecraft:honeycomb_block",
+    "B": "minecraft:apple"
+  },
+  "result": {
+    "id": "tastyheal:honeyed_apple",
+    "count": 1
+  }
+}

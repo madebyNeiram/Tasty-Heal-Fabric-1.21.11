@@ -3,12 +3,12 @@
 	"id": "tastyheal",
 	"version": "${version}",
 	"name": "Tasty Heal",
-	"description": "Adding some food to the players",
+	"description": "Adding some food to heal the players",
 	"authors": [
 		"Neiram"
 	],
 	"contact": {
-		"homepage": "https://neiram.games",
+		"homepage": "https://https://modrinth.com/user/Neiram",
 		"sources": "https://github.com/madebyNeiram/Tasty-Heal-Fabric-1.21.11"
 	},
 	"license": "MIT",
