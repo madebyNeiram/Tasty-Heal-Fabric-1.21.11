@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "GBG",
+    "GGG"
+  ],
+  "key": {
+    "G": "minecraft:gold_nugget",
+    "B": "minecraft:beetroot_soup"
+  },
+  "result": {
+    "id": "tastyheal:glistering_beetroot_soup",
+    "count": 1
+  }
+}

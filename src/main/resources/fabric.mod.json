@@ -3,7 +3,7 @@
 	"id": "tastyheal",
 	"version": "${version}",
 	"name": "Tasty Heal",
-	"description": "Adding some food to the players",
+	"description": "Adding some food to heal the players",
 	"authors": [
 		"Neiram"
 	],

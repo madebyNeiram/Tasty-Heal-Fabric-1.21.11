@@ -2,6 +2,7 @@ package net.neiram.tastyheal;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.neiram.tastyheal.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -12,6 +13,6 @@ public class TastyHeal implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+		ModItems.registerModItems();
 	}
 }
